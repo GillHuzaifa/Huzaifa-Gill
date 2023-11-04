@@ -1,3 +1,4 @@
+![logo](https://github.com/GillHuzaifa/Huzaifa-Gill/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa Gill</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
